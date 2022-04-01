@@ -17,3 +17,16 @@ Se recomienda crear una organizacion que sea la propietaria del repositorio prin
 
 Para crear un fork debes iniciar sesion en GitHub y luego ingresar a la landing page del proyecto del que quieras sacar tu Fork.
 
+## Como trabajar con las ramas
+
+Listar remotos
+
+`git remote -v`
+
+Agregar remotos
+
+`git remote add team https://github.com/mevhedteam/flujo-git-mevh.git`
+
+Eliminar remotos
+
+`git remote remove team`
