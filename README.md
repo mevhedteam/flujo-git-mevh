@@ -30,3 +30,5 @@ Agregar remotos
 Eliminar remotos
 
 `git remote remove team`
+
+#### Gracias por contribuir
